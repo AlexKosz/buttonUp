@@ -1,0 +1,19 @@
+#seach{
+    padding: 5px 30px;
+    color:#13997c;
+    border-color:#13997c;
+    border-radius: 50px;
+}
+
+#add{
+    border-radius: 50%;
+    color: #fff;
+    background-color: #13997c;
+    border: none;
+}
+
+#create{
+    background-color: #2565c4;
+    color: #fff;
+    border-color: #000;
+}
